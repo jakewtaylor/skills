@@ -1,0 +1,11 @@
+--- a/SKILL.md
++++ b/SKILL.md
+@@ -1,7 +1,6 @@
+ ---
+ name: unslop
+-description: Cut AI tells from any writing. Must always apply.
+-disable-model-invocation: true
++description: Cut AI tells from any writing and give it a human voice. Use for every piece of prose you produce or edit: commit messages, PR titles and descriptions, code comments, docs, READMEs, CLAUDE.md and skill files, and replies to the user. Apply it as a final pass before writing prose to a file or opening a PR.
+ ---
+ 
+ # Unslop
