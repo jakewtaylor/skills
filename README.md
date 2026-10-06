@@ -17,6 +17,7 @@ npx skills add jakewtaylor/skills --skill remind-me -g -a claude-code
 | Skill | Description |
 | --- | --- |
 | [remind-me](skills/remind-me/SKILL.md) | Capture a personal todo or reminder in Todoist. |
+| [daily-log](skills/daily-log/SKILL.md) | Add an entry to a project's daily work log in Obsidian. |
 
 ## Adding a skill
 
